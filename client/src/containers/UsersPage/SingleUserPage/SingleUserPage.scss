@@ -1,0 +1,13 @@
+.single-user-page{
+    .card-header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+.sk-fade-in.sk-spinner.sk-circle{
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    margin: 25vh auto;
+}
